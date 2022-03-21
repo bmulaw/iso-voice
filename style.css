@@ -1,0 +1,20 @@
+.options {
+  width: 80%;
+  height: 50vh;
+  border: 4px red solid;
+  margin-left: 10%;
+}
+
+button {
+  width: 100%;
+  margin-bottom: 2%;
+  padding: 2%;
+  text-align: left;
+  cursor: pointer;
+  background-color: rgba(0, 0, 0, 0.05);
+  border: none;
+}
+
+button:hover {
+    background-color: rgb(232, 245, 232);
+}
